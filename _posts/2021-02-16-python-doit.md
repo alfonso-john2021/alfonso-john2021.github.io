@@ -50,7 +50,7 @@ python을 위한, python을 위해, python으로!.. 사실 무료인 community �
 
 본론 나왔습니다! 본가 격인 visual studio에서 텍스트 편집 부분만 **똑** 떼어내 만든(+디버거,터미널) 아주 가벼운 에디터이죠.
 
-![need](image/2021-02-19-003126.png)
+![need](alfonso-john2021/alfonso-john2021.github.io/blob/master/_posts/image/2021-02-19-003126.png?raw=true)
 
 여기 보다시피 무려 20~50GB가 필요하다고 나와있습니다. 하지만 vscode는 겨우 100~200MB 정도만 필요하죠. 그래서 portable 버전도 있습니다.(여기서 다루지는 않습니다.)
 
