@@ -7,7 +7,7 @@ tags: [blog, python]
 
 ## 1. 통합개발환경(ide) 선택
 
-### 1.1 python IDEL
+### 1.1 python IDLE
 
 일단 첫번째로, python을 설치할때 기본적으로 같이 동봉되는 IDLE이라는 선택지가 있습니다.
 
