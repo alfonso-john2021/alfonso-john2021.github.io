@@ -4,7 +4,7 @@ permalink: /tags/
 title: Tags
 ---
 
-![wordcloud](C:\Users\이지후\Documents\GitHub\alfonso-john2021.github.io\images\wordcloud.png)
+![wordcloud](https://raw.githubusercontent.com/alfonso-john2021/alfonso-john2021.github.io/57d518de313d28a06fb9de64a2572e6907521fc1/images/wordcloud.png)
 
 <ul class="tag-cloud">
 {% for tag in site.tags %}
