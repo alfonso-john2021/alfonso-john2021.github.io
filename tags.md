@@ -4,6 +4,8 @@ permalink: /tags/
 title: Tags
 ---
 
+![wordcloud](C:\Users\이지후\Documents\GitHub\alfonso-john2021.github.io\images\wordcloud.png)
+
 <ul class="tag-cloud">
 {% for tag in site.tags %}
   <span style="font-size: {{ tag | last | size | times: 100 | divided_by: site.tags.size | plus: 70  }}%">
